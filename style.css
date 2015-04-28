@@ -26,9 +26,12 @@ a {
     transition: all .35s;
 }
 
-a:hover,
 a:focus {
-    color: #eb3812;
+    color: #858585;
+}
+
+a:hover {
+    color:#fff;
 }
 
 h1,
