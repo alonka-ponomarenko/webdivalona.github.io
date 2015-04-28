@@ -86,9 +86,11 @@ section {
     color: #f05f40;
 }
 
-.navbar-default .navbar-header .navbar-brand:hover,
+.navbar-default .navbar-header .navbar-brand:hover {
+color:#fff;
+}
 .navbar-default .navbar-header .navbar-brand:focus {
-    color: #eb3812;
+    color: #858585;
 }
 
 .navbar-default .nav > li>a,
