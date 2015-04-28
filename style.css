@@ -26,6 +26,11 @@ a {
     transition: all .35s;
 }
 
+a:visited {
+    text-decoration:none;
+    color:#fff;
+}
+
 a:hover,
 a:focus {
     color: #eb3812;
